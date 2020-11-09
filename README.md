@@ -1,1 +1,1 @@
-# treewidthVisualization
+# treewidth visualization
